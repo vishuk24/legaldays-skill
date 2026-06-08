@@ -10,8 +10,8 @@ description: >
   cross-border compliance news, sanctions update, DPDP GDPR, FDI circular.
 argument-hint: 'legaldays EU AI Act | legaldays India DPDP data transfers | legaldays OFAC sanctions maritime'
 allowed-tools: Bash, Read, Write, WebSearch
-homepage: https://github.com/lawaired/legaldays-skill
-repository: https://github.com/lawaired/legaldays-skill
+homepage: https://github.com/vishuk24/legaldays-skill
+repository: https://github.com/vishuk24/legaldays-skill
 author: Advocate Vishu Kushwaha / LawAired
 license: MIT
 user-invocable: true

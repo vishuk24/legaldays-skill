@@ -52,13 +52,13 @@ Every brief includes an **India / NCR business angle** — because most global-l
 Works with Grok, Claude Code, Codex, Cursor, Gemini CLI, and any [Agent Skills](https://agentskills.io) host.
 
 ```bash
-npx skills add lawaired/legaldays-skill -g
+npx skills add vishuk24/legaldays-skill -g
 ```
 
 Or clone and symlink:
 
 ```bash
-git clone https://github.com/lawaired/legaldays-skill.git
+git clone https://github.com/vishuk24/legaldays-skill.git
 ln -sf "$(pwd)/legaldays-skill/skills/legaldays" ~/.grok/skills/legaldays
 ```
 
@@ -73,8 +73,8 @@ Skill auto-loads from `~/.grok/skills/legaldays/SKILL.md` after install.
 ### Claude Code / Cursor
 
 ```bash
-npx skills add lawaired/legaldays-skill -g -a claude-code
-npx skills add lawaired/legaldays-skill -g -a cursor
+npx skills add vishuk24/legaldays-skill -g -a claude-code
+npx skills add vishuk24/legaldays-skill -g -a cursor
 ```
 
 ## Source tiers
