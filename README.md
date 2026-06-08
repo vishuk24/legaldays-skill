@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://lawaired.com">LawAired</a> ·
+  <a href="https://github.com/vishuk24/legaldays-skill/stargazers"><img src="https://img.shields.io/github/stars/vishuk24/legaldays-skill?style=social" alt="GitHub stars"></a> ·
+  <a href="https://lawaired.com/legaldays">LawAired Hub</a> ·
   <a href="https://www.advocatevishukushwaha.com">Advocate Vishu Kushwaha</a> ·
   MIT License
 </p>
