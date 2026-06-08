@@ -7,3 +7,7 @@ venv/
 *.log
 dist/
 *.skill
+
+# Private launch kit — local Mac only (not published to GitHub)
+assets/launch/
+LAUNCH.md
