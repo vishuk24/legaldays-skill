@@ -1,6 +1,24 @@
 # LegalDays Launch Kit
 
+## Launch images (attach to tweets)
+
+Saved locally:
+
+| File | Use on |
+|------|--------|
+| `assets/launch/legaldays-launch-hero.jpg` | **Tweet 1** or single post (main banner) |
+| `assets/launch/legaldays-how-it-works.jpg` | **Tweet 2** (thread — how it works) |
+| `assets/launch/legaldays-install-cta.jpg` | **Tweet 3** (thread — install + commands) |
+
+Also copied to: `~/Documents/LegalDays/`
+
+**X tips:** Attach hero image to the single post for 2–3× reach. For threads, one image per tweet beats a 4-image carousel on tweet 1. Alt text example: `LegalDays — open-source global business law radar agent skill by LawAired`.
+
+---
+
 ## X — single post (copy-paste)
+
+**Attach:** `legaldays-launch-hero.jpg`
 
 ```
 Shipped /legaldays — a free open-source agent skill for global business-law radar.
@@ -25,7 +43,7 @@ https://lawaired.com/legaldays
 
 ## X — thread (optional 4-tweet version)
 
-**Tweet 1**
+**Tweet 1** — attach `legaldays-launch-hero.jpg`
 ```
 Global businesses don't fail on lack of info.
 They fail on late detection of law changes.
@@ -35,7 +53,7 @@ I open-sourced /legaldays — an AI agent skill that scans what changed in busin
 Free. MIT. 👇
 ```
 
-**Tweet 2**
+**Tweet 2** — attach `legaldays-how-it-works.jpg`
 ```
 Unlike social-trend skills, LegalDays ranks:
 P0 — gazettes & Federal Register
@@ -45,7 +63,7 @@ P2 — Reuters Legal, Bloomberg Law
 Every brief includes an India / NCR angle for cross-border operators.
 ```
 
-**Tweet 3**
+**Tweet 3** — attach `legaldays-install-cta.jpg`
 ```
 Install anywhere Agent Skills run:
 
